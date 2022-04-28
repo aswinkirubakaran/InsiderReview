@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Insider Review</string>
+    <string name="employee">EMPLOYEE</string>
+    <string name="hr">HR/ADMIN</string>
+    <string name="login">Login</string>
+    <string name="login_details">LOGIN DETAILS</string>
+    <string name="submit">Submit</string>
+    <string name="environment_satisfaction">Environment Satisfaction</string>
+    <string name="job_satisfaction">Job Satisfaction</string>
+    <string name="work_life_balance">Work Life Balance</string>
+    <string name="relationship_satisfaction">Relationship Satisfaction</string>
+    <string name="view_analytics">View Analytics</string>
+    <string name="join">Will Not Leave the Organization</string>
+    <string name="not_join">Will Leave the Organization</string>
+</resources>

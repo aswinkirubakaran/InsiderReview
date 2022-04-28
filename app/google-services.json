@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981030797808",
+    "project_id": "insider-review",
+    "storage_bucket": "insider-review.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981030797808:android:08017609321da0f2711d35",
+        "android_client_info": {
+          "package_name": "com.example.insiderreviewapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981030797808-fprijh56l02ik5haq2mff3ifhcd0hc03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLOong0rmlGD_e5AiaBwwbeyKuwOJDXNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981030797808-fprijh56l02ik5haq2mff3ifhcd0hc03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
